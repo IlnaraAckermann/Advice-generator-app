@@ -1,0 +1,20 @@
+@media(max-width: 768px) {
+
+    .tip-box h1.title {
+        letter-spacing: 0.2rem;
+        margin-top: 2.5rem;
+    }
+
+    .tip-box p.tip-text {
+        color: var(--text-color);
+        font-size: 23px;
+        line-height: 2rem;
+    }
+
+    .tip-box .divisor {
+        background: url(../images/pattern-divider-mobile.svg) no-repeat center;
+        height: 18px;
+        width: 100%;
+        margin-top: 25px;
+    }
+}
